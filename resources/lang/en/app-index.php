@@ -9,6 +9,7 @@
     'icon' => 'Icon',
     'meta-title' => 'Applications',
     'name' => 'Name',
+    'password' => 'Password',
     'private' => 'Private',
     'readonly' => 'Read-only',
     'shared' => 'Shared',
@@ -19,5 +20,7 @@
     'tags' => 'Tags',
     'team' => 'Team',
     'type' => 'Type',
+    'url' => 'URL',
+    'user' => 'User',
     'visibility' => 'Visibility',
 ];
